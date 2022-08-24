@@ -1,13 +1,13 @@
 import java.io.File
 
 fun main() {
-    readFromFile()
     check()
 }
 
 fun check() {
     readFromFile()
 }
+
 
 //Folder of test cases
 var filePath = "T1_test_cases"
